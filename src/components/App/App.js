@@ -15,7 +15,11 @@ class App extends Component {
   }
 
   componentDidMount = async () => {
-    this.setState({ movies: await getMovies() });
+    try {
+      this.setState({ movies: await getMovies() });
+    } catch {
+      this.setState({ movies: [] });
+    }
     console.log(this.state.movies);
   }
 
