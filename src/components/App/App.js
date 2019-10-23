@@ -8,11 +8,15 @@ import './App.scss';
 
 class App extends Component {
   constructor() {
-    super();
+    super()
+    this.state = {
+      movies: []
+    }
   }
 
   componentDidMount = async () => {
-     getMovies()
+    this.setState({ movies: await getMovies() });
+    console.log(this.state.movies);
   }
 
   render() {
