@@ -12,6 +12,8 @@ As a result of building out this project, we developed some muscle memory buildi
 - [ec-myers](https://github.com/ec-myers)
 - [edwindelbosque](https://github.com/edwindelbosque)
 
+## Check out our live app in Heroku [here](https://the-screening-room.herokuapp.com/)!
+
 ## How to install
 
 1. Fork and clone down this repository.
@@ -20,8 +22,6 @@ As a result of building out this project, we developed some muscle memory buildi
 4. Once it has finished installing, run `npm start`.
 5. Follow the instructions [here](https://github.com/turingschool-examples/favorites-tracker-api) to get the database up and running.
 6. Check out your broswer.
-
-Optionally - you can follow step 5 above and then view the application live [here](https://screening-room.herokuapp.com/). Please note, to interact with the functionality you must first have the database up and running.
 
 ## Screenshot
 
