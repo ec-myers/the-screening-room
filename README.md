@@ -1,18 +1,16 @@
 ![](https://user-images.githubusercontent.com/48811985/67630271-b8b4ca80-f87c-11e9-8994-8ade2edc771f.png)
-# The Screening Room: A Movie Tracker web app
+# The Screening Room: A Movie Tracker Web Application
 
 ## Summary
 
-Ever been curious about what movies are currently out in theaters and wish you could get more info about them? Welcome to Movie Tracker where you can sign in, see the latest movies, and favorite them for later.
+Ever been curious about movies that are currently out in theaters and wish you could get more info about them? Welcome to The Screening Room where you can sign in, see the latest movies, and favorite them for later.
 
-As a result of building out this project, we developed some muscle memory building out applications with Redux. We also got a much more practice doing network requests with a backend and fetching a nested API from 'TheMovieDB'.
+As a result of building out this project, we developed muscle memory building out applications with React, Redux and Router. We also utilized network requests with a backend and fetching a from the 'TheMovieDB' API.
 
 ## Developers
 - [vrandall66](https://github.com/vrandall66)
 - [ec-myers](https://github.com/ec-myers)
 - [edwindelbosque](https://github.com/edwindelbosque)
-
-## Check out our live app in Heroku [here](https://the-screening-room.herokuapp.com/)!
 
 ## How to install
 
@@ -33,11 +31,12 @@ As a result of building out this project, we developed some muscle memory buildi
 
 - Made informed design decisions to create a user-friendly application.
 - Became comfortable with different network requests like GET, POST, & DELETE.
-- Got to user PostgresSQL to make network requests to the server.
+- Used PostgreSQL to make network requests to the server.
 - Solidified concepts with React to create clean and re-useable components.
 - Became comfortable with Redux’s lifecycle, creating actions, reducers, and connecting them to React components.
-- Understood and solidified concepts with React components, asynchronous code, and Redux testing.
-- Use of localStorage to make user and user information persist on page load.
+- Solidified concepts main concepts of React, inlcuding writing asynchronous code.
+- Implemented testing for React and Redux, achieving 97% test coverage.
+- Used localStorage to make user and user information persist on page load.
 
 ## Built with
 
