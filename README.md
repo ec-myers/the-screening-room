@@ -1,11 +1,10 @@
 ![](https://user-images.githubusercontent.com/48811985/67630271-b8b4ca80-f87c-11e9-8994-8ade2edc771f.png)
-# The Screening Room: A Movie Tracker Web Application
 
 ## Summary
 
 Ever been curious about movies that are currently out in theaters and wish you could get more info about them? Welcome to The Screening Room where you can sign in, see the latest movies, and favorite them for later.
 
-As a result of building out this project, we developed muscle memory building out applications with React, Redux and Router. We also utilized network requests with a backend and fetching a from the 'TheMovieDB' API.
+As a result of building out this project, we developed muscle memory building out applications with React, Redux and Router. We also utilized network requests with a backend and fetching from the 'TheMovieDB' API.
 
 ## Developers
 - [vrandall66](https://github.com/vrandall66)
