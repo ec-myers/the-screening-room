@@ -33,7 +33,7 @@ As a result of building out this project, we developed muscle memory building ou
 - Used PostgreSQL to make network requests to the server.
 - Solidified concepts with React to create clean and re-useable components.
 - Became comfortable with Redux’s lifecycle, creating actions, reducers, and connecting them to React components.
-- Solidified concepts main concepts of React, inlcuding writing asynchronous code.
+- Solidified main concepts of React, including writing asynchronous code.
 - Implemented testing for React and Redux, achieving 97% test coverage.
 - Used localStorage to make user and user information persist on page load.
 
